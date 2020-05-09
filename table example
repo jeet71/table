@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>
+home
+</title>
+</head>
+<body>
+<table border="12">
+<tr><td>name</td>
+<td>login ID</td>
+<td>course name</td>
+<td>marks</td>
+</tr>
+
+<tr><td>jeet</td>
+<td>1324</td>
+<td>Msql part 1</td>
+<td>78</td>
+</tr>
+
+<tr><td>name</td>
+<td>324</td>
+<td>course name</td>
+<td>marks</td>
+</tr>
+
+<tr><td>name</td>
+<td>324</td>
+<td>course name</td>
+<td>marks</td>
+</tr>
+
+<tr><td>name</td>
+<td>login ID</td>
+<td>course name</td>
+<td>marks</td>
+</tr>
+
+</tbody>
+</table>
+</body>
+</html>
